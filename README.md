@@ -1,5 +1,3 @@
-# MY-PYTHON
-###PYTHON
+# Python Repo
 
-This is my 15 days of python introduction challenge
-i made 15 projects and learnt about basic python
+> A Repo for python code and projects
